@@ -14,7 +14,7 @@ The aim of the paper is to build a deep learning model that would assist in pred
 
 # Dataset
 
---The dataset is directly downloaded from kaggle
+--The dataset is directly downloaded from kaggle.
 
 --Ensure to download the Json file from the kaggle account that you posses.
 
